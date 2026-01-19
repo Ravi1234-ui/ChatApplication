@@ -26,7 +26,7 @@ This is a real-time chat application built using **Java Swing** and **Socket Pro
 ---
 
 ## 📂 Project Structure
-
+```
 ChatApplication/
 │
 ├── src/
@@ -47,7 +47,7 @@ ChatApplication/
 ├── ChatApp.jar
 └── README.md
 
-
+```
 ---
 
 ## ▶️ How to Run
