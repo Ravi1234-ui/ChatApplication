@@ -27,23 +27,25 @@ This is a real-time chat application built using **Java Swing** and **Socket Pro
 
 ## 📂 Project Structure
 
-ChatApplication
+ChatApplication/
 │
-├── src
-│ ├── Launcher.java
-│ ├── server
-│ │ ├── Server.java
-│ │ └── MainServer.java
-│ │
-│ └── client
-│ ├── Client.java
-│ └── MainClient.java
+├── src/
+│   ├── Launcher.java
+│   │
+│   ├── server/
+│   │   ├── Server.java
+│   │   └── MainServer.java
+│   │
+│   └── client/
+│       ├── Client.java
+│       └── MainClient.java
 │
-├── sounds
-│ ├── send.wav
-│ └── receive.wav
+├── sounds/
+│   ├── send.wav
+│   └── receive.wav
 │
-└── ChatApp.jar
+├── ChatApp.jar
+└── README.md
 
 
 ---
